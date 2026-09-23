@@ -1,4 +1,4 @@
-﻿# yaml-language-server: $schema=../../plugins/quartz-plugins.schema.json
+# yaml-language-server: $schema=../../plugins/quartz-plugins.schema.json
 # Template: obsidian
 # Optimized for Obsidian vaults with full OFM support and shortest link resolution.
 configuration:
@@ -8,7 +8,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: 3085487039.github.io/-
+  baseUrl: 3085487039.github.io/note
   ignorePatterns:
     - private
     - templates
