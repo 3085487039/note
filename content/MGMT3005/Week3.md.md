@@ -191,6 +191,6 @@ tags: [MGMT3005, 知识点]
 | 医疗费用上限 | MOP 3,150,000 / 人；MOP 300 / 次诊症 |
 
 ## 相关笔记
-- [[Week2 for students]]
-- [[Week4 for students]]
+- [[Week2.md]]
+- [[Week4.md]]
 - #MGMT3005 #劳动法 #澳门 #知识点

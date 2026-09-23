@@ -110,5 +110,5 @@ tags: [MGMT3005, 知识点]
 - **LO 1-1**：定义人力资源管理，并解释 HRM 如何促进组织绩效。
 
 ## 相关笔记
-- [[Week2 for students]]
+- [[Week2.md]]
 - #MGMT3005 #HRM #知识点

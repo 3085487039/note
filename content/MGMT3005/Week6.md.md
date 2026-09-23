@@ -195,5 +195,5 @@ tags: [MGMT3005, 知识点]
 ---
 
 ## 相关笔记
-- [[Week5 for students]]
+- [[Week5.md]]
 - #MGMT3005 #员工甄选 #信度效度 #知识点

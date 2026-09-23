@@ -173,5 +173,5 @@ tags: [MGMT3005, 知识点]
 
 ## 相关笔记
 - [[Week3 for students]]
-- [[Week5 for students]]
+- [[Week5.md]]
 - #MGMT3005 #工作分析 #工作设计 #知识点

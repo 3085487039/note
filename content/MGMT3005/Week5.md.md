@@ -181,6 +181,6 @@ HR 招募的角色是建立潜在新员工的供给池，以便组织在需要�
 ---
 
 ## 相关笔记
-- [[Week4 for students]]
-- [[Week6 for students]]
+- [[Week4.md]]
+- [[Week6.md]]
 - #MGMT3005 #HR规划 #招募 #知识点
